@@ -1,0 +1,22 @@
+{
+  "name": "garden",
+  "displayName": "garden",
+  "expo": {
+    "name": "garden",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "Working demo",
+    "githubUrl": "https://github.com/derekwebdevcom/PlantApp/tree/master"
+  },
+  "dependencies": {
+    "util": "*"
+  }
+}
